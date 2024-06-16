@@ -76,20 +76,16 @@ body {
     background-color: #ffffff;
     line-height: 1.5;
 }
-.about-title {
-    font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
+.text {
+        font-size: 16px;
+        line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #2e2f42;
-}
-.about-text {
-    letter-spacing: 0.02em;
+        color: #434455;
 }
 .about-section {
     background-color: #ffffff;
 }
-.team-title {
+.section-title {
     font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -97,20 +93,13 @@ body {
         color: #2e2f42;
         text-transform: capitalize;
 }
-.team-member {
+.small-title {
     font-weight: 500;
         font-size: 20px;
-        line-height: 120%;
+        line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
         text-transform: capitalize;
-}
-.team-desc {
-    font-weight: 400;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
-        color: #434455;
 }
 .team-section {
     background-color: #f4f4fd;
@@ -120,17 +109,6 @@ body {
 }
 ul {
     list-style-type: none;
-}
-
-h2, h3 {
-    color: #2e2f42;
-}
-h2 {
-    line-height: 1.11;
-    text-align: center;
-}
-h3 {
-    line-height: 1.2;
 }
 .footer {
     background-color: #2e2f42;
