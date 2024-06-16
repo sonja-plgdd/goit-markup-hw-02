@@ -1,0 +1,61 @@
+.page-title {
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 107%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+.button {
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
+    width: 169px;
+        height: 56px;
+        font-family: "Roboto", sans-serif;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 150%;
+            letter-spacing: 0.04em;
+            color: #fff;
+}
+.logo {
+    font-family: "raleway", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
+.logo:hover, .logo:active {
+    color: currentColor;
+}
+.logo-web {
+    color: #4d5ae5;
+}
+.navigation .link {
+    text-decoration: none;
+    color: #2e2f42;
+}
+.navigation .link:hover,
+.link:active {
+    color: currentColor;
+}
+.contact-links .link {
+    text-decoration: none;
+    color: #434455;
+}
+.contact-links .link:hover,
+.link:active {
+    color: currentColor;
+}
+body {
+    font-family: "roboto", sans-serif;
+}
+ul {
+    list-style-type: none;
+}
+p {
+    color: #434455;
+}
+h2, h3 {
+    color: #2e2f42;
+}
