@@ -52,8 +52,8 @@
         color: #2e2f42;
 }
 .navigation .link:hover,
-.link:active {
-    color: currentColor;
+.link:active, .link:focus {
+    color: #404bbf;
 }
 .address {
     font-style: normal;
@@ -71,7 +71,7 @@
     color: #404bbf;
 }
 body {
-    font-family: "roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #ffffff;
     line-height: 1.5;
@@ -92,6 +92,7 @@ body {
         letter-spacing: 0.02em;
         color: #2e2f42;
         text-transform: capitalize;
+        text-align: center;
 }
 .small-title {
     font-weight: 500;
